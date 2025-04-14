@@ -1,2 +1,2 @@
 0 normal_ev
-1 clever
+1 akıllı_ev
